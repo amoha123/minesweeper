@@ -19,27 +19,27 @@ This project focuses on clean logic, DOM manipulation, and solid front-end funda
 * Restart button
 * Responsive layout for different screen sizes
 
-Optional future features: timer, difficulty selection, animations, sound effects)
+Optional future features: timer, difficulty selection, animations, sound effects
 
 ## 🧠 Technologies Used
 
 * HTML – structure and layout
 * CSS – styling and layout design
 * JavaScript (Vanilla) – game logic and interactivity
-* No frameworks or libraries were used in this version.
+* No frameworks or libraries were used in this version
+* 📂 Project Structure:
 
-📂 Project Structure
-minesweeper/
-│
-├── index.html       # Main HTML file
-├── style.css        # Styling
-├── script.js        # Game logic
-└── README.md        # Project documentation
+>minesweeper/
+>│
+>├── index.html       # Main HTML file
+>├── style.css        # Styling
+>├── script.js        # Game logic
+>└── README.md        # Project documentation
 
 ## 🚀 How to Run the Project
 
 1. Clone the repository:
-2. git clone https://github.com/your-username/minesweeper.git
+2. git clone https://github.com/amoha123/minesweeper.git
 3. Open the project folder:
 4. cd minesweeper
 5. Open index.html in your browser

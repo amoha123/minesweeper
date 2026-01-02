@@ -29,17 +29,14 @@ Optional future features: timer, difficulty selection, animations, sound effects
 * No frameworks or libraries were used in this version
 * 📂 Project Structure:
 
+```
 minesweeper/
-
 │
-
 ├── index.html       # Main HTML file
-
 ├── style.css        # Styling
-
 ├── script.js        # Game logic
-
 └── README.md        # Project documentation
+```
 
 ## 🚀 How to Run the Project
 
